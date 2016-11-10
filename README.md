@@ -1,9 +1,9 @@
-# ReddyRepo
-My personal projects will be here
+# Navyaresh branch
 
-I am naresh reddy, developer and going to prepare basic java standalone programming for understanding how to use github...
+This is branch is for storing my personal development...
 
+hi naresh how are you..
 
-i would like to chane the new branch "mybranch" and let me check the changes after commit...
+hi navya how are you..
 
-Hello world all
+hai navya and naresh how are you both..
