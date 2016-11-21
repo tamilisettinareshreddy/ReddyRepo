@@ -6,6 +6,7 @@ private static String name;
 		System.out.println("Hello World");
 		String status = getDetails(10,"Navya");
 		System.out.println("The status of the "+name+"is :"+status);
+		System.out.println("Changes added in repo by naresh & navya");
 	}
 	public static String getDetails(int number1,String name1){
 		//condition takes place
