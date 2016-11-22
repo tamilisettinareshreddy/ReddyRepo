@@ -13,4 +13,6 @@ Naresh spoke to Navya's mother regarding his interest and even she denied, Navya
 "Naresh VS Navya"....
 ========================================================================================================================
 
+
 The pending thing is to be marry Navya once she completed her education. Naresh and Navya both are loving each other sincerely....
+
